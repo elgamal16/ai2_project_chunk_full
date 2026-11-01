@@ -1,0 +1,17 @@
+.env
+*.env
+!.env.example
+churn.db
+*.db
+*.sqlite3
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.DS_Store
+**/.DS_Store
